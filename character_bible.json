@@ -1,0 +1,64 @@
+{
+  "GLOBAL_RECURRING": {
+    "HISTORIAN_MASCOT": {
+      "aliases": ["Dog-human historian mascot", "historian mascot", "mascot", "dog-human"],
+      "prompt_anchor": "recurring dog-human historian mascot, anthropomorphic hound face, wearing 19th-century vest and spectacles, expressive scholarly posture, consistent franchise character design"
+    },
+    "AMERICAN_SAILOR": {
+      "aliases": ["American sailor", "naval crew", "sailors", "crew", "merchant crew"],
+      "prompt_anchor": "early 19th-century American sailor, canvas breeches, striped work shirt, weather-beaten face, tarred cocked hat"
+    },
+    "PIRATE_CREW": {
+      "aliases": ["pirates", "pirate vessel", "corsairs", "buccaneers"],
+      "prompt_anchor": "Caribbean corsairs and pirates, rough ragged nautical attire, cutlasses, weathered bandanas, intimidating posture"
+    },
+    "BRITISH_OFFICER": {
+      "aliases": ["British troops", "British officer", "Royal Navy"],
+      "prompt_anchor": "1812-era British officer, scarlet uniform with gold frogging or Royal Navy blue coat, bicorne hat with cockade, stern aristocratic demeanor"
+    }
+  },
+  "PRESIDENTS": {
+    "1": {
+      "name": "George Washington",
+      "aliases": ["George Washington", "Washington", "General Washington"],
+      "prompt_anchor": "George Washington, powdered white colonial wig tied back, tall broad-shouldered frame, weathered stoic jawline, dark continental officer coat, gold epaulets",
+      "youth_anchor": "Young George Washington, surveyor uniform in Virginia frontier, unpowdered reddish hair tied back, tall lean athletic frame"
+    },
+    "2": {
+      "name": "John Adams",
+      "aliases": ["John Adams", "Adams", "President Adams"],
+      "prompt_anchor": "John Adams, short stocky build, balding forehead with untamed white side-hair, round intense face, dark brown wool coat, plain neckcloth",
+      "youth_anchor": "Young John Adams, sharp Boston lawyer, 1770s colonial attire, intense inquisitive gaze"
+    },
+    "3": {
+      "name": "Thomas Jefferson",
+      "aliases": ["Thomas Jefferson", "Jefferson", "Mr. Jefferson"],
+      "prompt_anchor": "Thomas Jefferson, tall lanky build, reddish-sandy hair lightly powdered, sharp angular chin, observant eyes, bottle-green tailored coat, lace jabot",
+      "youth_anchor": "Young Thomas Jefferson, writing in his study, sandy-red unpowdered hair, quill in hand, contemplative posture"
+    },
+    "4": {
+      "name": "James Madison",
+      "aliases": ["James Madison", "Madison", "President Madison"],
+      "prompt_anchor": "James Madison, diminutive stature, reserved intellectual expression, powdered receding hairline, formal black coat and high stock",
+      "youth_anchor": "Young James Madison, constitutional scholar, intense focus, delicate frame, powdered wig"
+    },
+    "5": {
+      "name": "James Monroe",
+      "aliases": ["James Monroe", "Monroe", "President Monroe"],
+      "prompt_anchor": "James Monroe as US President, elder statesman, powdered gray hair, sharp prominent nose, navy blue continental coat with brass buttons, high white cravat, poised authoritative posture",
+      "youth_anchor": "James Monroe as an 18-year-old Continental soldier, young determined face, unpowdered brown hair tied back, muddy blue Continental Army uniform, carrying a flintlock musket"
+    },
+    "6": {
+      "name": "John Quincy Adams",
+      "aliases": ["John Quincy Adams", "JQA", "President Adams"],
+      "prompt_anchor": "John Quincy Adams, balding crown with thick white mutton-chops, piercing gaze, black waistcoat and neckcloth, stern intellectual posture",
+      "youth_anchor": "Young John Quincy Adams, teenage diplomat in Paris, late 1700s European attire, sharp observant eyes"
+    },
+    "7": {
+      "name": "Andrew Jackson",
+      "aliases": ["Andrew Jackson", "Jackson", "General Jackson", "Old Hickory"],
+      "prompt_anchor": "Andrew Jackson, lean gaunt angular face, fierce piercing blue eyes, wild swept-back gray-white hair, black presidential coat, tall commanding posture",
+      "youth_anchor": "General Andrew Jackson in military uniform, high-collar army coat with gold frogging, intense battlefield stance"
+    }
+  }
+}
