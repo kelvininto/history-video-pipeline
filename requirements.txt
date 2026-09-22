@@ -1,2 +1,2 @@
 streamlit
-moviepy
+moviepy<2.0.0
