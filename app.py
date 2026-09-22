@@ -2,8 +2,11 @@ import streamlit as st
 import json
 import re
 import os
-import tempfile
-from moviepy.editor import VideoFileClip, concatenate_videoclips
+import tempfiletry:
+    from moviepy.editor import VideoFileClip, concatenate_videoclips
+except ModuleNotFoundError:
+    from moviepy import VideoFileClip, concatenate_videoclips
+
 
 st.set_page_config(page_title="AI History Studio", layout="wide", initial_sidebar_state="collapsed")
 
